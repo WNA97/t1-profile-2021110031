@@ -42,7 +42,7 @@
                 </div>
             </section>
             <hr class="m-0" />
-            <!-- Bagian project webdev / project web dev yang pernah saya lakukan sewaktu D3-->
+            <!-- Bagian project webdev / project aplikasi web yang pernah saya lakukan sewaktu D3-->
             <section class="resume-section" id="webdev">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Web Development Projects List</h2>
