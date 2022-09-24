@@ -28,6 +28,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#certification">Certifications</a></li>
+                    <li class="nav-item"><a href="portofolio"><button type="button" class="btn btn-dark"><i class="fa-regular fa-hand-point-right"></i>   Portofolio</button></a></li>
                 </ul>
             </div>
         </nav>
@@ -41,7 +42,7 @@
                         <span class="text-danger">Ananda</span>
                     </h1>
                     <div class="subheading mb-5">
-                        Jl. Dr. Otten 15 · Pasirkaliki, Bandung 40171 · (+62)819-0750-7222 ·
+                        Jl. Dr. Otten 15 · Pasirkaliki, Bandung 40171 · <a class="text-danger"> NPM 2021110031 </a> ·
                         <a class="text-danger" href="mailto:wiweka.n.a@outlook.com">wiweka.n.a@outlook.com</a>
                     </div>
                     <p class="lead mb-5">I am experienced in IT Administration who is responsible for managing Linux servers, websites and local corporate networks. Perform optimization solutions on the website, especially SEO so that it can provide the best experience for companies in terms of digital marketing using websites.</p>
@@ -95,7 +96,7 @@
                             <div>Information systems - Information management path</div>
                             <p>GPA: 3.60</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-danger">August 2021 - >August 2023</span></div>
+                        <div class="flex-shrink-0"><span class="text-danger">August 2021 - August 2023</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
@@ -173,6 +174,7 @@
                 </div>
             </section>
         </div>
+        <p class="text-center"> Copyright © <?php echo date("Y"); ?> Wiweka Naren Ananda - 2021110031 </p>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
